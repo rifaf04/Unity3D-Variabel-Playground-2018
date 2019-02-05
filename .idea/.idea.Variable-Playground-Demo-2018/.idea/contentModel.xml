@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ben\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_Variable-Playground-Demo-2018.-914185459.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Ben\Documents\Programming\Devslopes\Unity 2018 Course\Demos\Variable-Playground-Demo-2018" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Character.cs" t="Include" />
+        <e p="SpawnHandler.cs" t="Include" />
+        <e p="Variables.cs" t="Include" />
+        <e p="Villain.cs" t="Include" />
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Variable-Playground-Demo-2018.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
